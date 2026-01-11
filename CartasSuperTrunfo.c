@@ -92,6 +92,6 @@ printf("Área: %.3fkm²\n", área2);
 printf("PIB: %f bilhões de reais\n", pib2);
 printf("Números de Pontos Turísticos: %i\n", pontosturisticos2);
 
-
+;
 return 0;
 }
